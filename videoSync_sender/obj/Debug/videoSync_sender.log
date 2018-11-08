@@ -1,0 +1,11 @@
+﻿  ofApp.cpp
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  videoSync_sender.vcxproj -> E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\videoSync_sender\bin\videoSync_sender_debug.exe
+  
+  	                   2	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 5647872	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\videoSync_sender\bin\FreeImage.dll
+  
+  	                   1	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\videoSync_sender\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\videoSync_sender\bin\fmodexL.dll

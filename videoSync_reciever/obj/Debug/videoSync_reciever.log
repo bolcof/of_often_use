@@ -1,0 +1,57 @@
+﻿  main.cpp
+  ofApp.cpp
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+  ofxOscBundle.cpp
+  ofxOscMessage.cpp
+  ofxOscParameterSync.cpp
+  ofxOscReceiver.cpp
+  ofxOscSender.cpp
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscSender.cpp)
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscSender.cpp)
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscParameterSync.cpp)
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscReceiver.cpp)
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\addons\ofxOsc\src\ofxOscReceiver.cpp)
+  IpEndpointName.cpp
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(54): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(56): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\ipendpointname.cpp(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
+  NetworkingUtils.cpp
+  UdpSocket.cpp
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\ip\win32\networkingutils.cpp(88): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(2218): note: 'gethostbyname' の宣言を確認してください
+  OscOutboundPacketStream.cpp
+  OscPrintReceivedElements.cpp
+  OscReceivedElements.cpp
+  OscTypes.cpp
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(363): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' の宣言を確認してください
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(605): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' の宣言を確認してください
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscoutboundpacketstream.cpp(625): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' の宣言を確認してください
+e:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\addons\ofxosc\libs\oscpack\src\osc\oscprintreceivedelements.cpp(129): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\time.h(476): note: 'ctime' の宣言を確認してください
+     ライブラリ bin\videoSync_reciever_debug.lib とオブジェクト bin\videoSync_reciever_debug.exp を作成中
+  videoSync_reciever.vcxproj -> E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\videoSync_reciever\bin\videoSync_reciever_debug.exe
+  
+  	                   2	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  新しいファイル		 1266176	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	  新しいファイル		 1312768	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\videoSync_reciever\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\apps\myApps\videoSync_reciever\bin\fmodexL.dll
+  	  新しいファイル		 5647872	E:\of_v0.10.0_vs2017_release\of_v0.10.0_vs2017_release\libs\FreeImage\lib\vs\Win32\FreeImage.dll
