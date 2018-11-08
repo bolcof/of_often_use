@@ -10,6 +10,6 @@
   ![エビフライトライアングル](https://user-images.githubusercontent.com/10094496/48122193-51dc8100-e2ba-11e8-8b81-2912865da8e8.png "サンプル")
 
 # videoSync sender/reciever
-  同期再生用プログラム
-  これも変わらずmacじゃないとVideoPlayer問題でうまく動かないのでsrcだけ使う
-  シークバーのオマケつき
+  映像同期再生用プログラム  
+  これも変わらずmacじゃないとVideoPlayer問題でうまく動かないのでsrcだけ使う  
+  シークバーのオマケつき  
