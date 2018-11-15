@@ -15,11 +15,10 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-    
-    ofVideoPlayer video;
+	
+	ofVideoPlayer video;
 	ofImage screen;
-    ofEasyCam cam;
-    ofMesh mesh;
+	ofMesh mesh;
 
 	ofVec3f p[4];
 	ofVec3f center;
